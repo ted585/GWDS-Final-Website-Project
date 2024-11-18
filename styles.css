@@ -12,3 +12,8 @@ main{
 footer{
     background-color: blue;
 }
+
+section{
+    border: 1px solid black;
+    padding:5px;
+}
