@@ -1,3 +1,14 @@
 body {
-    background-color: blueviolet;
+    background-color: lightgoldenrodyellow;
+}
+header{
+    background-color:blue
+}
+
+main{
+    background-color:aquamarine
+}
+
+footer{
+    background-color: blue;
 }
