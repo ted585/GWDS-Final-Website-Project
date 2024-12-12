@@ -47,7 +47,9 @@ main{
 }
 
 footer{
-    background-color: blue;
+    text-align: center;
+    background-color:aliceblue;
+    height : 100px;
 }
 
 section{
