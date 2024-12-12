@@ -1,5 +1,7 @@
 h1{
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1000;
 }
 .container-navigation{
 
@@ -7,6 +9,28 @@ display: flex;
 flex-wrap: wrap;
 }
 
+button {
+    text-align: center;
+    border: 2px;
+    background-color:aliceblue;
+    border-radius: 5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    padding: 10px;
+    margin: 2px;
+    transition-duration: .2s;
+    
+}
+button:hover{
+    background-color:slategray;
+    color:black;
+}
+button:active{
+    background-color:darkslategray;
+    box-shadow: 0 5px goldenrod;
+    transform: translateY(2px) translateX(2px);
+    
+}
 
 
 
@@ -14,7 +38,8 @@ body {
     background-color: lightgoldenrodyellow;
 }
 header{
-    background-color:violet
+    background-color: aliceblue;
+    text-align: center;
 }
 
 main{
@@ -32,21 +57,7 @@ section{
 
 .poster-section{
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+align-items: center;
 
 
 
